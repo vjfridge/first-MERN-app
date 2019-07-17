@@ -2,7 +2,7 @@
 My first web application using the MERN (MongoDB Express React Node) stack. 
 
 # Description
-A simple todo web application with MongoDB CRUD functionality for todo items. Source code developed from following [The MERN Stack Tutorial – Building A React CRUD Application From Start To Finish](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-4/) by Sebastian on [CodingTheSmartWay.com](https://codingthesmartway.com/).
+A simple todo web application with MongoDB CRUD functionality for todo items. Source code developed from following [The MERN Stack Tutorial – Building A React CRUD Application From Start To Finish](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/) by Sebastian on [CodingTheSmartWay.com](https://codingthesmartway.com/).
 
 # Running the Application Locally
 Prerequisite: Need to have [Node](https://nodejs.org/en/download/) installed. 
